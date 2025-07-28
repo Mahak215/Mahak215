@@ -1,16 +1,14 @@
-## Hi there 👋
+## 👋 Hello, I'm Mahak!
 
-<!--
-**Mahak215/Mahak215** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I'm an Electronics and Communication Engineering student  
+💻 Passionate about Digital Design, VLSI, Embedded Systems,IOT  
+🌱 Currently learning Verilog 
+🛠️ Skills: Verilog, C, Xilinx 
+📂 Projects: Full Adder, Wallace Multiplier,Mux,Demux,Array Multiplier
+🔗 LinkedIn: [https://www.linkedin.com/in/mahak-60a7ab362]  
+📧 Email: [sainimeena146@gmail.com]  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ 
+
